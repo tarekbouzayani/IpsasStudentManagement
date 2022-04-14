@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class IpsasStudentManagementApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(IpsasStudentManagementApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(IpsasStudentManagementApplication.class, args);
+    }
 
 }
